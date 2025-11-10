@@ -1,0 +1,11 @@
+{
+  "programId": "C4FiFWofsjxRGXrcF5i1RnxPHc7QDcSf9XzhFgLQyioh",
+  "configPda": "76wSp6L47PyseC3X5cGEiCT3fF2mzTbA5ZMUCG91ATVG",
+  "paymentVaultPda": "Dm4YqWjUrvh92LFeeRqWGZVTTHbHUNBHaGQrwXPj1J9r",
+  "masterMint": "Hxy6WYRbPS6SLrvSfwtpnyZpn5ZArsezQpwJLjxJX2BH",
+  "masterMetadata": "FRGAx4vNqZNMRBqqTBWTmiaF2hxfcnj8EhCCb4DtS3eg",
+  "masterEdition": "EVMt9stLqDBgu5gmVsLCsW3fneMkSSmE7mgkWeXMSzAR",
+  "mintPrice": "0.2",
+  "discountedPrice": "0.1",
+  "network": "mainnet"
+}

@@ -1,0 +1,14 @@
+{
+  "collectionMint": "Hxy6WYRbPS6SLrvSfwtpnyZpn5ZArsezQpwJLjxJX2BH",
+  "collectionMetadata": "FRGAx4vNqZNMRBqqTBWTmiaF2hxfcnj8EhCCb4DtS3eg",
+  "collectionMasterEdition": "EVMt9stLqDBgu5gmVsLCsW3fneMkSSmE7mgkWeXMSzAR",
+  "masterMint": "Hxy6WYRbPS6SLrvSfwtpnyZpn5ZArsezQpwJLjxJX2BH",
+  "masterMetadata": "FRGAx4vNqZNMRBqqTBWTmiaF2hxfcnj8EhCCb4DtS3eg",
+  "masterEdition": "EVMt9stLqDBgu5gmVsLCsW3fneMkSSmE7mgkWeXMSzAR",
+  "name": "AMMo Founders Collection",
+  "symbol": "FAMMo",
+  "uri": "https://plum-imperial-swordfish-193.mypinata.cloud/ipfs/bafkreiddegzxdo2h3sliwjfpp22f46mfwb7frb3aibdqtln74uiiv3wkmy",
+  "maxSupply": "unlimited",
+  "isCollection": true,
+  "note": "This single NFT serves as BOTH the collection identifier AND the master for printing editions"
+}
